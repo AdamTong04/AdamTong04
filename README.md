@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdamTong04
-- 👀 I’m interested in software engineering, specifical associated with electronics
+- 👀 I’m interested in software engineering, specifically associated with electronics
 - 🌱 I’m currently studying electronic and software engineering with a university course at UofG
 - 💞️ I’m looking to collaborate on any projects to help gain experience in the field.
 - 📫 How to reach me ~ email me @: adammh.tong04@gmail.com
